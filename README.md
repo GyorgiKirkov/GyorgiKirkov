@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GyorgiKirkov
-- 👀 I’m interested in Css
+- 👀 I’m interested in Css, JS, Ts, NextJs
 - 🌱 I’m currently learning front-end
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me Gyorgi_Kirkov@outlook.com 
